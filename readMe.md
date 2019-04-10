@@ -1,5 +1,5 @@
 This project allows users to add trains to the existing schedule.
-It utilizes server-side storage via Firebase.
+It utilizes server-side storage via Firebase. It also utlizes moment.js and jQuery.
 
 Users can get started by adding a train and pressing "submit"
 if you need help with this project, email me at emilyfyonker@protonmail.com
